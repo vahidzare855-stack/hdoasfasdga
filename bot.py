@@ -52,7 +52,7 @@ def cbtn(
             pass
     return InlineKeyboardButton(**build_kwargs)
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
+BOT_TOKEN = "8835237722:AAFJDvXb6o48DMTPrcJPv5HwsMa97tkSj2Q"
 BOT_USERNAME = "woofdoggybot"
 
 # ═══════════════════════════════════════════════════════════════
